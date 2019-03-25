@@ -1,0 +1,36 @@
+font-face{
+    font-family: PTSans;
+}
+header
+{
+    background-image: url("background1.jpg");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 2847px;
+    height: 1686px;
+    z-index: 2;
+}
+
+.logo
+{
+    color: white;
+    position: absolute;
+    left: 322px;
+    top: 49px;
+    width: 146px;
+    height: 38px;
+    z-index: 3;
+}
+.logo span {
+    padding-left: 10px;
+    font-family: PTSans;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+
+
+}
+
+
